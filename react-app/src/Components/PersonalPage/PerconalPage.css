@@ -1,0 +1,81 @@
+.main__data {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+}
+
+.main__color {
+    color: #E63756;
+}
+
+.main__personalData {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 30px 0 30px;
+}
+
+.main__list {
+    margin: 30px 0 60px;
+}
+
+.main__list-information {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    margin: 0 auto;
+    max-width: 380px;
+}
+
+.main__list-ul {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #000000;
+    list-style: none;
+    padding: 20px 30px;
+}
+
+.main__list-li {
+    margin-bottom: 10px;
+}
+
+.main__list-li:last-child {
+    margin-bottom: 0;
+}
+
+.perconalPage__information {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    padding: 20px 30px;
+    max-width: 380px;
+    margin: 30px auto 60px auto;
+}
+
+.perconalPage__block {
+    display: flex;
+    gap: 10px;
+}
+
+.perconalPage__img {
+    width: 6px;
+    height: 6px;
+    padding-top: 7px;
+}
+
+.perconalPage__text {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0;
+}
+

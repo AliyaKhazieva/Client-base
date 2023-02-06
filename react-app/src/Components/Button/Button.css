@@ -1,0 +1,20 @@
+.btn {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #041A35;
+    background: #FFE082;
+    border-radius: 10px;
+    margin: 0;
+    border: none;
+    width: 100%;
+    align-items: center;
+    padding: 10px 0;
+}   
+
+.btn-block {
+    display: block;
+    width: 200px;
+}

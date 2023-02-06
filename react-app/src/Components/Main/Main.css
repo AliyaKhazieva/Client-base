@@ -1,0 +1,208 @@
+.main__container {
+    margin: 0 auto;
+    max-width: 520px;
+    padding: 0 40px;
+}
+
+.main__teaxt-container {
+    display: flex;
+    justify-content: center;
+}
+
+.main__text {
+    margin: 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #041A35;
+}
+
+.main__link {
+    color: #E63756;
+}
+
+.main__table-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 29px;
+    margin-top: 40px;
+}
+
+.main__table {
+    width: 494.59px; 
+    height: 287px;
+}
+
+.main__subtitle {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #041A35;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.main__carts {
+    margin-top: 30px;
+    gap: 20px;
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.text {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.main__button {
+    margin-top: 31px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.main__userOne {
+    width: 360px;
+}
+
+.main__userTwo {
+    width: 360px;
+    margin-left: auto;
+}
+
+.main__cartList {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.main__cart-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    background: #FFECB3;
+    border-radius: 12px;
+    padding: 30px 30px;
+    margin: 0;
+}
+
+.main__cartList-container {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    padding: 27px 30px 30px;
+}
+
+.main__cartList-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 18px;
+    color: #041A35;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.main__cartList-interest {
+    display: flex;
+    gap: 9px;
+    flex-direction: column;
+}
+
+.main__cartList-salary {
+    display: flex;
+    gap: 10px;
+}
+
+
+.main__cartList-img {
+    width: 6px;
+    height: 6px;
+    padding-top: 5px;
+}
+
+.main__cartList-additional {
+    margin: 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    padding-bottom: 10px;
+}
+
+.main__cartList-color {
+    color: #E63756;
+}
+
+.red {
+    color: #E63756;
+}
+
+
+.main__cartPrice {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.indent {
+    margin-bottom: 30px;
+}
+
+/* .main__information {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    display: flex;
+    gap: 15px;
+    max-width: 380px;
+    margin: 0 auto;
+    padding: 15px 15px;
+    margin-bottom: 60px;
+}
+
+.main__information-block {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.main__information-question {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #041A35;
+    margin: 0;
+}
+
+.main__information-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    color: #041A35;
+    margin: 0;
+} */

@@ -1,0 +1,43 @@
+.user {
+    display: flex;
+    gap: 9px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+.user__name {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #041A35;
+    margin: 0;
+}
+
+.user__information {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    color: #7A899D;
+    margin: 0;
+}
+
+.user__text {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 18px;
+    color: #041A35;
+    background: #E3F2FD;
+    border-radius: 14px;
+    padding: 30px 30px;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+
